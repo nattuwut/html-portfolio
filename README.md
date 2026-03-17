@@ -1,2 +1,2 @@
 # html-portfolio
-This is my web development exercise.
+This is my web development practice.
